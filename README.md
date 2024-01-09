@@ -1,12 +1,14 @@
 ### Hi there 👋, I'm Michael
-#### Your friendly neighbourhood code addict.
+#### your friendly neighbourhood SWE.
 I build scalable and consumer-friendly software products and services 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,java,python,dart,go,c,cpp)](https://skills.thijs.gg)
 
-- 🔭 I’m currently working on Mfonim3d VR gallery 
-- 🌱 I’m currently learning Go and Java 
+- 🔭 I’m currently working on mfonim3d VR gallery 
+- 🌱 I’m currently learning Rust 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mike1111k/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mike11111k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mikemireku.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelMireku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-mireku-121a71201/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mike1111k/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mike11111k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](mikemireku.com)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMireku)](https://github.com/anuraghazra/github-readme-stats)
 
