@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Michael
+### Hi there 👋, I'm Mike
 #### your friendly neighbourhood SWE.
 I build scalable and consumer-friendly software products and services 
 
 Skills: [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,java,python,dart,go,c,cpp,matlab)](https://skills.thijs.gg)
 
-- 🔭 I’m currently working on mfonim3d VR gallery 
+- 🔭 I’m currently working on my ✨sleep schedule✨ 
 - 🌱 I’m currently learning Rust and C# 
 
 
