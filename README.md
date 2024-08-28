@@ -4,7 +4,7 @@ I build scalable and consumer-friendly software products and services
 
 Skills: [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,java,python,dart,go,c,cpp,matlab)](https://skills.thijs.gg)
 
-- 🔭 I’m currently working on my ✨sleep schedule✨ 
+- 🔭 I’m currently working on my ✨TaCo✨ 
 - 🌱 I’m currently learning Rust and C# 
 
 
